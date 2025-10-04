@@ -1,1 +1,3 @@
 # BookLens
+
+## AI-powered library
