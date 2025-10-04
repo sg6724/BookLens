@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+.env.*
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+dist/
+.cache/
+
+# Editor/OS
+.DS_Store
+.idea/
+.vscode/
+
+# Project data
+/data/
+backend/app/storage/
+backend/.env
+frontend/.env
+
+# Build artifacts
+frontend/build/
